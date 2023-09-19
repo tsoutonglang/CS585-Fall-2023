@@ -108,7 +108,7 @@ keywords. Your regular expression should be aware of word boundaries in some way
 the keyword "win" should not be detected in the text "Gas prices up in winter months".
 - Using the python re library – apply your function to your test set. (See function re.search). What is the precision and recall of this classifier? Show your results in your notebook
 
-### PROBLEM 8 – Comparing results
+### Problem 8 – Comparing results
 - Compare your rules-based classifier from the previous problem with your machine-learning
 solution. Which classifier showed the best model metrics? Why do you think it performed the
 best? How did both compare to your trivial baseline (Problem 2)?
