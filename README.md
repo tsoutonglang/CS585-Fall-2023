@@ -16,3 +16,15 @@ Due: Wednesday, September 27
 - To perform a text classification experiment and examine the results
 - To become familiar the scikit-learn machine learning library
 - Optional exercise: To gain hands-on experience with word embeddings
+
+## Homework 3:
+Due:
+
+### Goals
+- 
+
+## Homework 4:
+Due:
+
+### Goals
+- 

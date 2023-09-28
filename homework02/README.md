@@ -25,7 +25,7 @@ You should use Python to complete this homework assignment. Other programming la
 be accepted.
 
 ## Note on Model Performance
-The goal of is homework is to execute an NLP experiment and present the results clearly to others (in
+The goal of this homework is to execute an NLP experiment and present the results clearly to others (in
 this case, the class TAs) can read clearly. Different students will see different results, if you see lower
 metrics than others be assured that this will not lower your grade.
 
