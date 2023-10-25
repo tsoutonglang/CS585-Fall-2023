@@ -18,10 +18,12 @@ Due: Wednesday, September 27
 - Optional exercise: To gain hands-on experience with word embeddings
 
 ## Homework 3:
-Due:
+Due: Wednesday, October 25
 
 ### Goals
-- 
+- Apply language model concepts to an NLP dataset 
+- Gain experience working with sequential text data in python
+- Revisit familiar NLP tasks (sentiment analysis & text categorization) with language models
 
 ## Homework 4:
 Due:
