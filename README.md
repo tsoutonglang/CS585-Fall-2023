@@ -26,7 +26,17 @@ Due: Wednesday, October 25
 - Revisit familiar NLP tasks (sentiment analysis & text categorization) with language models
 
 ## Homework 4:
-Due:
+Due: Tuesday, Novemeber 7
 
 ### Goals
-- 
+- Gain experience with Conditional Random Fields (CRFs) using an open-source python library
+- Perform a named entity recognition (NER) experiment framed as sequential labeling problem
+- Explore data from the specialized biomedical sub-domain of NLP
+
+## Homework 5:
+Due: Monday, November 20
+
+### Goals
+- Apply a natural language Context-Free Grammar (CFG) grammar
+- Gain hands-on experience with an NLP constituency parser
+- Examine variation in syntax structure among English language texts
